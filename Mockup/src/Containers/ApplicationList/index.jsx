@@ -7,7 +7,7 @@ const ApplicationList = () => {
     const context = React.useContext(MyContext);
     
     return (
-        <div className="">
+        <div>
             {context.state?.map((x,i) => 
             <ApplicationCard 
                 id={i+1} 
