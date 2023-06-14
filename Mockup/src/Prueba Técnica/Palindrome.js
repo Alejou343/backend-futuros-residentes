@@ -16,3 +16,4 @@ function verifyPalindrome(str) {
         return false;
     }
 }
+
