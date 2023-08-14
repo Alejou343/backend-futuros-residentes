@@ -2,7 +2,7 @@ import questions from "@/Databases/questions"
 import cors from 'cors';
 
 const corsOptions = {
-  origin: 'https://alejou343.github.io/prueba-fr/', 
+  origin: 'https://alejou343.github.io', 
   methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
   credentials: true,
   optionsSuccessStatus: 204,
