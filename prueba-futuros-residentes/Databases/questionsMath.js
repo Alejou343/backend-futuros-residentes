@@ -12,8 +12,8 @@ const questionsMath = [
         "pregunta": "Si x = 3 y y = 5, ¿cuál es el valor de x * y?",
         "opciones": [
             {"text": "8", "isCorrect": false},
-            {"text": "10", "isCorrect": true},
-            {"text": "15", "isCorrect": false},
+            {"text": "15", "isCorrect": true},
+            {"text": "10", "isCorrect": false},
             {"text": "20", "isCorrect": false}
         ]
     },
@@ -21,8 +21,8 @@ const questionsMath = [
         "pregunta": "¿Cuál es el resultado de 12 / 3?",
         "opciones": [
             {"text": "2", "isCorrect": false},
-            {"text": "3", "isCorrect": true},
-            {"text": "4", "isCorrect": false},
+            {"text": "4", "isCorrect": true},
+            {"text": "3", "isCorrect": false},
             {"text": "6", "isCorrect": false}
         ]
     },
@@ -39,7 +39,7 @@ const questionsMath = [
         "pregunta": "Si a = 4 y b = 7, ¿cuál es el valor de a^2 + b^2?",
         "opciones": [
             {"text": "41", "isCorrect": false},
-            {"text": "65", "isCorrect": false},
+            {"text": "63", "isCorrect": false},
             {"text": "65", "isCorrect": true},
             {"text": "81", "isCorrect": false}
         ]
@@ -56,8 +56,8 @@ const questionsMath = [
     {
         "pregunta": "Si x = 8 y y = 2, ¿cuál es el valor de x / y?",
         "opciones": [
-            {"text": "4", "isCorrect": false},
-            {"text": "2", "isCorrect": true},
+            {"text": "2", "isCorrect": false},
+            {"text": "4", "isCorrect": true},
             {"text": "6", "isCorrect": false},
             {"text": "8", "isCorrect": false}
         ]
@@ -75,7 +75,7 @@ const questionsMath = [
         "pregunta": "Si a = 5 y b = 3, ¿cuál es el valor de a * b?",
         "opciones": [
             {"text": "8", "isCorrect": false},
-            {"text": "15", "isCorrect": false},
+            {"text": "28", "isCorrect": false},
             {"text": "20", "isCorrect": false},
             {"text": "15", "isCorrect": true}
         ]

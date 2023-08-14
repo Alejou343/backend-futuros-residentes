@@ -2,8 +2,8 @@ const questionsGeneralCulture = [
     {
         "pregunta": "¿Cuál es el metal más abundante en la corteza terrestre?",
         "opciones": [
-            {"text": "Hierro", "isCorrect": false},
-            {"text": "Aluminio", "isCorrect": true},
+            {"text": "Aluminio", "isCorrect": false},
+            {"text": "Hierro", "isCorrect": true},
             {"text": "Cobre", "isCorrect": false},
             {"text": "Plomo", "isCorrect": false}
         ]
@@ -47,16 +47,16 @@ const questionsGeneralCulture = [
     {
         "pregunta": "¿Cuál es la hormona responsable de regular el metabolismo en el cuerpo humano?",
         "opciones": [
-            {"text": "Insulina", "isCorrect": false},
+            {"text": "Tiroxina", "isCorrect": false},
             {"text": "Testosterona", "isCorrect": false},
-            {"text": "Tiroxina", "isCorrect": true},
+            {"text": "Insulina", "isCorrect": true},
             {"text": "Cortisol", "isCorrect": false}
         ]
     },
     {
         "pregunta": "¿En qué año se llevó a cabo la Revolución Industrial?",
         "opciones": [
-            {"text": "1750-1850", "isCorrect": true},
+            {"text": "1760-1840", "isCorrect": true},
             {"text": "1800-1900", "isCorrect": false},
             {"text": "1850-1950", "isCorrect": false},
             {"text": "1700-1800", "isCorrect": false}
